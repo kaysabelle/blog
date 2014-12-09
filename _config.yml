@@ -6,6 +6,7 @@ relative_permalinks: true
 title:            Poole
 tagline:          The Jekyll Butler
 paginate:         1
+url:			  kaysabelle.github.io
 baseurl:          /blog/
 author:
   name:           Mark Otto
