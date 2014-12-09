@@ -9,9 +9,9 @@ paginate:         1
 url:              kaysabelle.github.io
 baseurl:          /blog/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Katrina Cruz
+  url:            https://github.com/kaysabelle
+  email:          kaysabelle@gmail.com
 
 # Custom vars
 version:          1.0.0
