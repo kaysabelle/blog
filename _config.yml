@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Poole
 tagline:          The Jekyll Butler
 paginate:         1
-baseurl:          /blog
+baseurl:          /blog/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
