@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Isn't this blog beautiful?
 tagline:          Visit me at https://github.com/kaysabelle/
 paginate:         1
-url:			        kaysabelle.github.io
+url:              kaysabelle.github.io
 baseurl:          /blog/
 author:
   name:           Mark Otto
