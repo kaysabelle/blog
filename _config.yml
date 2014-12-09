@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Isn't this blog beautiful?
+tagline:          Visit me at https://github.com/kaysabelle/
 paginate:         1
 url:			  kaysabelle.github.io
 baseurl:          /blog/
